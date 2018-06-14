@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+#particles-js {
+  background: cornflowerblue;
+}
+
 body {
     background-color: #f1f1f1;
     padding: 20px;
@@ -12,6 +16,7 @@ body {
 .main {
     max-width: 1000px;
     margin: auto;
+	
 }
 
 h1 {
