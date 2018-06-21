@@ -93,6 +93,8 @@ p {
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 20px;
+    color: #cccccc;
+    margin-bottom: 0;
 }
 blockquote {
 	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
